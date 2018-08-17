@@ -1,9 +1,9 @@
 *{ 
-  margin: 0; padding: 0; box-sizing: border-box; width:100%; heght:auto;
+  margin: 0; padding: 0; width:100%; heght:auto;  box-sizing: border-box; 
 }
 
 body{
-  background-color: #655545;
+  margin: 0; padding: 0; width:100%; heght:auto; background-color: #655545;
 }
 
 h1{
