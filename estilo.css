@@ -1,9 +1,9 @@
 *{ 
-  margin: 0; padding: 0; width:100%; heght:auto;  box-sizing: border-box; 
+  margin: 0; padding: 0; width:100%; height:auto;  box-sizing: border-box; 
 }
 
 body{
-  margin: 0; padding: 0; width:100%; heght:auto; background-color: rgba(246,250,246,1.0);
+  margin: 0; padding: 0; width:100%; height:auto; background-color: rgba(246,250,246,1.0);
 }
 
 h1{
